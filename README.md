@@ -44,6 +44,3 @@
 各科平均成绩	83.5		82.2		80.7
 ```
 * The last step is to use the file pointer to read and display the contents of the scoresAnalysis.txt by row to the console window
-## Edi.disk-file-read-write
-* Add disk-file-read-write in .NET Core
-https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
